@@ -36,7 +36,7 @@ Laravel adalah sebuah framework PHP yang dirilis dibawah lisensi MIT, dibangun d
 
 <p align="center">
   <a href="http://localhost/laravel/public/">
-    <img title="Laravel Default View" height='200' src="https://laravelarticle.com/filemanager/uploads/laravel-7.png">
+    <img title="Laravel Default View" height='200' src="">
   </a>
 </p>
 
