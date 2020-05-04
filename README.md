@@ -17,9 +17,16 @@ Laravel adalah sebuah framework PHP yang dirilis dibawah lisensi MIT, dibangun d
 
 - [Cara Install Laravel Authentication]
   - [Table Of Content](#table-of-content)
+  - [Kebutuhan](#kebutuhan)
   - [Install Laravel](#install-laravel)
   - [RUN Laravel](#run-laravel)
-  - [Kebutuhan](#kebutuhan)
+  
+
+## Kebutuhan
+
+- Composer
+- MySQL
+- Laravel File
 
 
 ## Install Laravel
@@ -80,12 +87,6 @@ atau ketik
 ```bash
 `http://localhost/laravel/public`
 ```
-
-## Kebutuhan
-
-- Composer
-- MySQL
-- Laravel File
 
 
 ---
