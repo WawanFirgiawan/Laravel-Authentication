@@ -18,9 +18,8 @@ Laravel adalah sebuah framework PHP yang dirilis dibawah lisensi MIT, dibangun d
 - [Cara Install Laravel Authentication]
   - [Table Of Content](#table-of-content)
   - [Install Laravel](#install-laravel)
-  - [Stacks](#stacks)
-  - [Dependencies](#dependencies)
-  - [Aplication Structure](#aplication-Structure)
+  - [RUN Laravel](#run-laravel)
+  - [Kebutuhan](#kebutuhan)
 
 
 ## Install Laravel
@@ -35,8 +34,8 @@ Laravel adalah sebuah framework PHP yang dirilis dibawah lisensi MIT, dibangun d
 - Setelah Proses selesai Jalankan XAMPP di browser : `http://localhost/laravel/public`
 
 <p align="center">
-  <a href="http://localhost/laravel/public/">
-    <img title="Laravel Default View" height='200' src="">
+  <a href="https://laravel.com/">
+    <img title="LARAVEL" height='200' src="https://miro.medium.com/max/2730/1*gsGG1VLh7JSD8hUSNU69EQ.png">
   </a>
 </p>
 
@@ -67,9 +66,9 @@ DB_PASSWORD=
 $ php artisan migrate
 ```
 
-7. Jika tidak terjadi error, maka pada web anda akan bertambah dengan 2 menu yaitu LOGIN dan REGISTER yang terdapat pada pojok kanan atas website anda.
+8. Jika tidak terjadi error, maka pada web anda akan bertambah dengan 2 menu yaitu LOGIN dan REGISTER yang terdapat pada pojok kanan atas website anda.
 
-## Aplication Structure
+## RUN Laravel
 Untuk Menjalankan Laravel pada Server anda bisa menggunakan perintah CMD : `php artisan serve` setalah itu masukkan  pada browsure anda perintah :
 
 ```bash
